@@ -11,5 +11,5 @@ meu nome e lethicia.S.Ferreira
 
 f.lethicia@escola.pr.gov.br
 
-![](![image](https://github.com/santanaleeeh/santanaleeeh/assets/149097071/9154a832-a6f2-4f59-81bf-e999b6f648bb)
-)
+
+![](https://github.com/santanaleeeh/santanaleeeh/assets/149097071/9154a832-a6f2-4f59-81bf-e999b6f648bb)
